@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Alberta!</h3>
+<h4 align="center">Check out my <a href="https://vishwa702.github.io">Portfolio </a> or <a href="https://github.com/vishwa702?tab=repositories">Repositories</a></h4>
+
+    
 
 - 🔭 I’m currently working on **image segmentation on healthcare data.**
 
